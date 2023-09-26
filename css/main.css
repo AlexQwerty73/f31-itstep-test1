@@ -1,1 +1,28 @@
-s
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.header{
+    height: 100px;
+background: #ff7e7e;
+}
+.header-block{}
+
+.main{
+    height: 100px;
+    background: rgb(140, 255, 117);
+}
+
+.main-block{}
+
+.footer{
+    height: 100px;
+background: rgb(112, 40, 112);
+}
+.footer-block{}
