@@ -1,28 +1,35 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.container{
+a{
+    color: black;
+}
+
+.container {
     max-width: 1000px;
     margin: 0 auto;
 }
-.header{
+
+header {
     height: 100px;
-background: #ff7e7e;
+    background: #ff7e7e;
 }
+
 /* .header-block{} */
 
-.main{
+.main {
     height: 100px;
     background: rgb(140, 255, 117);
 }
 
 /* .main-block{} */
 
-.footer{
+.footer {
     height: 100px;
-background: rgb(112, 40, 112);
+    background: rgb(112, 40, 112);
 }
+
 /* .footer-block{} */
